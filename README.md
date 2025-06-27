@@ -54,10 +54,11 @@ Use os prompts anteriores como referencia
 
 - Faça uma explicação sobre relacionamento entre tabelas do sql, explicando sobre relacionamentos 1-1, 1-n e n-n. 
 Também faça uma explicação sobre chaves estrangeiras
-'''
+```
+
 ## 🔗 Fontes e Sites Utilizados
 Aqui estão os principais sites e materiais de referência usados na criação do eBook:
-'''text
+```text
 - https://showcode.app
 - https://copilot.microsoft.com
 - https://chatgpt.com
@@ -65,4 +66,4 @@ Aqui estão os principais sites e materiais de referência usados na criação d
 - https://www.remove.bg/pt-br/upload
 - https://www.canva.com/
 - https://lucid.app/
-'''
+```
